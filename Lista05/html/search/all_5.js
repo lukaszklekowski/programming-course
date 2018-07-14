@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['orgscenex',['orgSceneX',['../classsample_1_1_circle1.html#ae70992a0d8ac63b84461b9d55e15b5a6',1,'sample.Circle1.orgSceneX()'],['../classsample_1_1_polygon1.html#ae70992a0d8ac63b84461b9d55e15b5a6',1,'sample.Polygon1.orgSceneX()'],['../classsample_1_1_rectangle1.html#ae70992a0d8ac63b84461b9d55e15b5a6',1,'sample.Rectangle1.orgSceneX()']]],
+  ['orgsceney',['orgSceneY',['../classsample_1_1_circle1.html#aaa9a9d75acaca193dbd177563f52f7d0',1,'sample.Circle1.orgSceneY()'],['../classsample_1_1_polygon1.html#aaa9a9d75acaca193dbd177563f52f7d0',1,'sample.Polygon1.orgSceneY()'],['../classsample_1_1_rectangle1.html#aaa9a9d75acaca193dbd177563f52f7d0',1,'sample.Rectangle1.orgSceneY()']]],
+  ['orgtranslatex',['orgTranslateX',['../classsample_1_1_circle1.html#ae708e75af8d26ab4fb8a9ea4c94ad8f0',1,'sample.Circle1.orgTranslateX()'],['../classsample_1_1_polygon1.html#ae708e75af8d26ab4fb8a9ea4c94ad8f0',1,'sample.Polygon1.orgTranslateX()'],['../classsample_1_1_rectangle1.html#ae708e75af8d26ab4fb8a9ea4c94ad8f0',1,'sample.Rectangle1.orgTranslateX()']]],
+  ['orgtranslatey',['orgTranslateY',['../classsample_1_1_circle1.html#a733759e31198d0bbffbb557fda476a14',1,'sample.Circle1.orgTranslateY()'],['../classsample_1_1_polygon1.html#a733759e31198d0bbffbb557fda476a14',1,'sample.Polygon1.orgTranslateY()'],['../classsample_1_1_rectangle1.html#a733759e31198d0bbffbb557fda476a14',1,'sample.Rectangle1.orgTranslateY()']]]
+];

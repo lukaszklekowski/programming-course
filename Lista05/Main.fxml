@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1020.0" prefWidth="620.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.MainController">
+   <children>
+      <MenuBar fx:id="menubar" blendMode="SRC_ATOP" prefHeight="25.0" prefWidth="1020.0" visible="true">
+        <menus>
+          <Menu mnemonicParsing="false" text="Rysuj">
+               <items>
+                  <MenuItem fx:id="circle" mnemonicParsing="false" onAction="#DrawCircle" text="Koło" />
+                  <MenuItem fx:id="rectangle" mnemonicParsing="false" onAction="#DrawRectangle" text="Prostokąt" />
+                  <MenuItem fx:id="polygon" mnemonicParsing="false" onAction="#DrawPolygon" text="Wielokąt" />
+               </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Pomoc">
+               <items>
+                  <MenuItem fx:id="Info" mnemonicParsing="false" onAction="#infowindow" text="Info" />
+               </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</Pane>

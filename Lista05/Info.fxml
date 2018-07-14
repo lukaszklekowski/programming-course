@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="396.0" prefWidth="422.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.InfoController">
+   <children>
+      <Label layoutX="146.0" layoutY="12.0" text="Edytor Graficzny" textAlignment="CENTER">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="180.0" layoutY="55.0" text="Wersja 1.0" />
+      <Label layoutX="141.0" layoutY="80.0" text="Twórca: Łukasz Klekowski" />
+      <Label layoutX="14.0" layoutY="117.0" prefHeight="53.0" prefWidth="397.0" text="Prosty edytor graficzny, który służy do rysowania figur geometrycznych takich jak prostokąt, koło czy wielokąt i ich modyfikacji." textAlignment="CENTER" wrapText="true" />
+      <Separator layoutX="13.0" layoutY="112.0" prefHeight="11.0" prefWidth="397.0" />
+      <Separator layoutX="13.0" layoutY="39.0" prefHeight="4.0" prefWidth="397.0" />
+      <Button fx:id="closeButton" layoutX="192.0" layoutY="338.0" mnemonicParsing="false" onAction="#close" prefHeight="25.0" prefWidth="40.0" text="OK" />
+      <Label layoutX="12.0" layoutY="181.0" prefHeight="61.0" prefWidth="397.0" text="Rysowanie prostokąta lub koła: Wybierz z menu Rysowanie opcję Prostokąt lub Koło i kliknij na ekran lewym przyciskiem myszy." textAlignment="CENTER" wrapText="true" />
+      <Label layoutX="12.0" layoutY="226.0" prefHeight="104.0" prefWidth="397.0" text="Rysowanie wielokąta: Wybierz z menu Rysowanie opcję Wielokąt i lewym przyciskiem myszy wybieraj na ekranie punkty, w których mają być wierzchołki wielokąta. Aby zakończyć rysowanie wciśnij prawy przycisk myszy." textAlignment="CENTER" wrapText="true" />
+      <Separator layoutX="14.0" layoutY="177.0" prefHeight="4.0" prefWidth="397.0" />
+   </children>
+</Pane>
